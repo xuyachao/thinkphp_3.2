@@ -1,0 +1,810 @@
+[ 2016-01-18T20:20:03+08:00 ] ::1 /thinkphp_3.2/TMPL_STYLE_PATHcss/unicorn.grey.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:TMPL_STYLE_PATHcss
+
+[ 2016-01-18T20:20:03+08:00 ] ::1 /thinkphp_3.2/TMPL_STYLE_PATHcss/bootstrap-responsive.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载模块:TMPL_STYLE_PATHcss
+
+[ 2016-01-18T20:20:03+08:00 ] ::1 /thinkphp_3.2/TMPL_STYLE_PATHcss/unicorn.main.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:TMPL_STYLE_PATHcss
+
+[ 2016-01-18T20:20:03+08:00 ] ::1 /thinkphp_3.2/TMPL_STYLE_PATHcss/fullcalendar.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:TMPL_STYLE_PATHcss
+
+[ 2016-01-18T20:20:03+08:00 ] ::1 /thinkphp_3.2/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载模块:Js
+
+[ 2016-01-18T20:20:03+08:00 ] ::1 /thinkphp_3.2/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Js
+
+[ 2016-01-18T20:20:03+08:00 ] ::1 /thinkphp_3.2/js/jquery.ui.custom.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Js
+
+[ 2016-01-18T20:20:03+08:00 ] ::1 /thinkphp_3.2/js/jquery.flot.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Js
+
+[ 2016-01-18T20:20:03+08:00 ] ::1 /thinkphp_3.2/js/excanvas.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Js
+
+[ 2016-01-18T20:20:04+08:00 ] ::1 /thinkphp_3.2/js/jquery.flot.resize.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Js
+
+[ 2016-01-18T20:20:04+08:00 ] ::1 /thinkphp_3.2/js/jquery.peity.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Js
+
+[ 2016-01-18T20:20:04+08:00 ] ::1 /thinkphp_3.2/js/unicorn.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Js
+
+[ 2016-01-18T20:20:04+08:00 ] ::1 /thinkphp_3.2/js/unicorn.dashboard.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Js
+
+[ 2016-01-18T20:20:04+08:00 ] ::1 /thinkphp_3.2/js/fullcalendar.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Js
+
+[ 2016-01-18T20:20:04+08:00 ] ::1 /thinkphp_3.2/img/demo/av3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Img
+
+[ 2016-01-18T20:20:04+08:00 ] ::1 /thinkphp_3.2/img/demo/av2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Img
+
+[ 2016-01-18T20:20:04+08:00 ] ::1 /thinkphp_3.2/img/demo/av1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Img
+
+[ 2016-01-18T20:21:06+08:00 ] ::1 /thinkphp_3.2/js/excanvas.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Js
+
+[ 2016-01-18T20:21:06+08:00 ] ::1 /thinkphp_3.2/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Js
+
+[ 2016-01-18T20:21:06+08:00 ] ::1 /thinkphp_3.2/js/jquery.ui.custom.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Js
+
+[ 2016-01-18T20:21:06+08:00 ] ::1 /thinkphp_3.2/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Js
+
+[ 2016-01-18T20:21:06+08:00 ] ::1 /thinkphp_3.2/js/jquery.flot.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Js
+
+[ 2016-01-18T20:21:06+08:00 ] ::1 /thinkphp_3.2/js/unicorn.dashboard.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Js
+
+[ 2016-01-18T20:21:06+08:00 ] ::1 /thinkphp_3.2/js/jquery.peity.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Js
+
+[ 2016-01-18T20:21:06+08:00 ] ::1 /thinkphp_3.2/js/unicorn.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载模块:Js
+
+[ 2016-01-18T20:21:06+08:00 ] ::1 /thinkphp_3.2/js/fullcalendar.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Js
+
+[ 2016-01-18T20:21:06+08:00 ] ::1 /thinkphp_3.2/js/jquery.flot.resize.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Js
+
+[ 2016-01-18T20:21:06+08:00 ] ::1 /thinkphp_3.2/img/demo/av1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Img
+
+[ 2016-01-18T20:21:06+08:00 ] ::1 /thinkphp_3.2/img/demo/av3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Img
+
+[ 2016-01-18T20:21:06+08:00 ] ::1 /thinkphp_3.2/img/demo/av2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Img
+
+[ 2016-01-18T20:21:32+08:00 ] ::1 /thinkphp_3.2/js/excanvas.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Js
+
+[ 2016-01-18T20:21:32+08:00 ] ::1 /thinkphp_3.2/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Js
+
+[ 2016-01-18T20:21:32+08:00 ] ::1 /thinkphp_3.2/js/jquery.ui.custom.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Js
+
+[ 2016-01-18T20:21:32+08:00 ] ::1 /thinkphp_3.2/js/jquery.flot.resize.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Js
+
+[ 2016-01-18T20:21:32+08:00 ] ::1 /thinkphp_3.2/js/jquery.flot.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Js
+
+[ 2016-01-18T20:21:32+08:00 ] ::1 /thinkphp_3.2/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Js
+
+[ 2016-01-18T20:21:32+08:00 ] ::1 /thinkphp_3.2/js/jquery.peity.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Js
+
+[ 2016-01-18T20:21:32+08:00 ] ::1 /thinkphp_3.2/js/fullcalendar.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Js
+
+[ 2016-01-18T20:21:32+08:00 ] ::1 /thinkphp_3.2/js/unicorn.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Js
+
+[ 2016-01-18T20:21:32+08:00 ] ::1 /thinkphp_3.2/img/demo/av1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Img
+
+[ 2016-01-18T20:21:32+08:00 ] ::1 /thinkphp_3.2/js/unicorn.dashboard.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Js
+
+[ 2016-01-18T20:21:32+08:00 ] ::1 /thinkphp_3.2/img/demo/av3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载模块:Img
+
+[ 2016-01-18T20:21:32+08:00 ] ::1 /thinkphp_3.2/img/demo/av2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Img
+
+[ 2016-01-18T20:22:34+08:00 ] ::1 /thinkphp_3.2/js/excanvas.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Js
+
+[ 2016-01-18T20:22:34+08:00 ] ::1 /thinkphp_3.2/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Js
+
+[ 2016-01-18T20:22:34+08:00 ] ::1 /thinkphp_3.2/js/jquery.ui.custom.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Js
+
+[ 2016-01-18T20:22:34+08:00 ] ::1 /thinkphp_3.2/js/jquery.flot.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Js
+
+[ 2016-01-18T20:22:34+08:00 ] ::1 /thinkphp_3.2/js/jquery.flot.resize.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Js
+
+[ 2016-01-18T20:22:34+08:00 ] ::1 /thinkphp_3.2/js/jquery.peity.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载模块:Js
+
+[ 2016-01-18T20:22:34+08:00 ] ::1 /thinkphp_3.2/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Js
+
+[ 2016-01-18T20:22:34+08:00 ] ::1 /thinkphp_3.2/js/fullcalendar.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Js
+
+[ 2016-01-18T20:22:34+08:00 ] ::1 /thinkphp_3.2/js/unicorn.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Js
+
+[ 2016-01-18T20:22:34+08:00 ] ::1 /thinkphp_3.2/js/unicorn.dashboard.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Js
+
+[ 2016-01-18T20:22:34+08:00 ] ::1 /thinkphp_3.2/img/demo/av3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Img
+
+[ 2016-01-18T20:22:34+08:00 ] ::1 /thinkphp_3.2/img/demo/av1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Img
+
+[ 2016-01-18T20:22:34+08:00 ] ::1 /thinkphp_3.2/img/demo/av2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Img
+
+[ 2016-01-18T20:22:42+08:00 ] ::1 /thinkphp_3.2/js/excanvas.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Js
+
+[ 2016-01-18T20:22:42+08:00 ] ::1 /thinkphp_3.2/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Js
+
+[ 2016-01-18T20:22:42+08:00 ] ::1 /thinkphp_3.2/js/jquery.ui.custom.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Js
+
+[ 2016-01-18T20:22:42+08:00 ] ::1 /thinkphp_3.2/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Js
+
+[ 2016-01-18T20:22:42+08:00 ] ::1 /thinkphp_3.2/js/jquery.flot.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Js
+
+[ 2016-01-18T20:22:43+08:00 ] ::1 /thinkphp_3.2/js/jquery.flot.resize.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Js
+
+[ 2016-01-18T20:22:43+08:00 ] ::1 /thinkphp_3.2/js/jquery.peity.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Js
+
+[ 2016-01-18T20:22:43+08:00 ] ::1 /thinkphp_3.2/js/fullcalendar.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Js
+
+[ 2016-01-18T20:22:43+08:00 ] ::1 /thinkphp_3.2/js/unicorn.dashboard.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Js
+
+[ 2016-01-18T20:22:43+08:00 ] ::1 /thinkphp_3.2/js/unicorn.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Js
+
+[ 2016-01-18T20:22:43+08:00 ] ::1 /thinkphp_3.2/img/demo/av1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Img
+
+[ 2016-01-18T20:22:43+08:00 ] ::1 /thinkphp_3.2/img/demo/av2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Img
+
+[ 2016-01-18T20:22:43+08:00 ] ::1 /thinkphp_3.2/img/demo/av3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Img
+
+[ 2016-01-18T20:22:57+08:00 ] ::1 /thinkphp_3.2/js/excanvas.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Js
+
+[ 2016-01-18T20:22:57+08:00 ] ::1 /thinkphp_3.2/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004000s ]
+ERR: 无法加载模块:Js
+
+[ 2016-01-18T20:22:57+08:00 ] ::1 /thinkphp_3.2/js/jquery.ui.custom.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Js
+
+[ 2016-01-18T20:22:58+08:00 ] ::1 /thinkphp_3.2/js/jquery.flot.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Js
+
+[ 2016-01-18T20:22:58+08:00 ] ::1 /thinkphp_3.2/js/jquery.flot.resize.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Js
+
+[ 2016-01-18T20:22:58+08:00 ] ::1 /thinkphp_3.2/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Js
+
+[ 2016-01-18T20:22:58+08:00 ] ::1 /thinkphp_3.2/js/fullcalendar.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Js
+
+[ 2016-01-18T20:22:58+08:00 ] ::1 /thinkphp_3.2/js/unicorn.dashboard.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Js
+
+[ 2016-01-18T20:22:58+08:00 ] ::1 /thinkphp_3.2/js/unicorn.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Js
+
+[ 2016-01-18T20:22:58+08:00 ] ::1 /thinkphp_3.2/img/demo/av1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Img
+
+[ 2016-01-18T20:22:58+08:00 ] ::1 /thinkphp_3.2/js/jquery.peity.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Js
+
+[ 2016-01-18T20:22:58+08:00 ] ::1 /thinkphp_3.2/img/demo/av3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Img
+
+[ 2016-01-18T20:22:58+08:00 ] ::1 /thinkphp_3.2/img/demo/av2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Img
+
+[ 2016-01-18T20:23:30+08:00 ] ::1 /thinkphp_3.2/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Js
+
+[ 2016-01-18T20:23:30+08:00 ] ::1 /thinkphp_3.2/js/jquery.ui.custom.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003001s ]
+ERR: 无法加载模块:Js
+
+[ 2016-01-18T20:23:30+08:00 ] ::1 /thinkphp_3.2/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Js
+
+[ 2016-01-18T20:23:30+08:00 ] ::1 /thinkphp_3.2/js/excanvas.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Js
+
+[ 2016-01-18T20:23:30+08:00 ] ::1 /thinkphp_3.2/js/jquery.flot.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Js
+
+[ 2016-01-18T20:23:30+08:00 ] ::1 /thinkphp_3.2/js/jquery.flot.resize.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Js
+
+[ 2016-01-18T20:23:30+08:00 ] ::1 /thinkphp_3.2/js/unicorn.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Js
+
+[ 2016-01-18T20:23:30+08:00 ] ::1 /thinkphp_3.2/js/jquery.peity.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Js
+
+[ 2016-01-18T20:23:30+08:00 ] ::1 /thinkphp_3.2/js/unicorn.dashboard.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Js
+
+[ 2016-01-18T20:23:30+08:00 ] ::1 /thinkphp_3.2/js/fullcalendar.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Js
+
+[ 2016-01-18T20:23:30+08:00 ] ::1 /thinkphp_3.2/img/demo/av1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Img
+
+[ 2016-01-18T20:23:30+08:00 ] ::1 /thinkphp_3.2/img/demo/av2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Img
+
+[ 2016-01-18T20:23:30+08:00 ] ::1 /thinkphp_3.2/img/demo/av3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Img
+
+[ 2016-01-18T20:24:41+08:00 ] ::1 /thinkphp_3.2/js/excanvas.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Js
+
+[ 2016-01-18T20:24:41+08:00 ] ::1 /thinkphp_3.2/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Js
+
+[ 2016-01-18T20:24:41+08:00 ] ::1 /thinkphp_3.2/js/jquery.flot.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004000s ]
+ERR: 无法加载模块:Js
+
+[ 2016-01-18T20:24:41+08:00 ] ::1 /thinkphp_3.2/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Js
+
+[ 2016-01-18T20:24:41+08:00 ] ::1 /thinkphp_3.2/js/jquery.ui.custom.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Js
+
+[ 2016-01-18T20:24:41+08:00 ] ::1 /thinkphp_3.2/js/jquery.flot.resize.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Js
+
+[ 2016-01-18T20:24:41+08:00 ] ::1 /thinkphp_3.2/js/jquery.peity.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Js
+
+[ 2016-01-18T20:24:41+08:00 ] ::1 /thinkphp_3.2/js/fullcalendar.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Js
+
+[ 2016-01-18T20:24:41+08:00 ] ::1 /thinkphp_3.2/js/unicorn.dashboard.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Js
+
+[ 2016-01-18T20:24:41+08:00 ] ::1 /thinkphp_3.2/js/unicorn.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Js
+
+[ 2016-01-18T20:24:41+08:00 ] ::1 /thinkphp_3.2/img/demo/av3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Img
+
+[ 2016-01-18T20:24:41+08:00 ] ::1 /thinkphp_3.2/img/demo/av1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Img
+
+[ 2016-01-18T20:24:41+08:00 ] ::1 /thinkphp_3.2/img/demo/av2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Img
+
+[ 2016-01-18T20:25:21+08:00 ] ::1 /thinkphp_3.2/js/excanvas.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Js
+
+[ 2016-01-18T20:25:21+08:00 ] ::1 /thinkphp_3.2/js/jquery.ui.custom.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Js
+
+[ 2016-01-18T20:25:21+08:00 ] ::1 /thinkphp_3.2/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Js
+
+[ 2016-01-18T20:25:21+08:00 ] ::1 /thinkphp_3.2/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Js
+
+[ 2016-01-18T20:25:21+08:00 ] ::1 /thinkphp_3.2/js/jquery.flot.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Js
+
+[ 2016-01-18T20:25:22+08:00 ] ::1 /thinkphp_3.2/js/jquery.peity.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Js
+
+[ 2016-01-18T20:25:22+08:00 ] ::1 /thinkphp_3.2/js/fullcalendar.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Js
+
+[ 2016-01-18T20:25:22+08:00 ] ::1 /thinkphp_3.2/js/jquery.flot.resize.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Js
+
+[ 2016-01-18T20:25:22+08:00 ] ::1 /thinkphp_3.2/js/unicorn.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Js
+
+[ 2016-01-18T20:25:22+08:00 ] ::1 /thinkphp_3.2/js/unicorn.dashboard.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Js
+
+[ 2016-01-18T20:25:22+08:00 ] ::1 /thinkphp_3.2/img/demo/av3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Img
+
+[ 2016-01-18T20:25:22+08:00 ] ::1 /thinkphp_3.2/img/demo/av1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Img
+
+[ 2016-01-18T20:25:22+08:00 ] ::1 /thinkphp_3.2/img/demo/av2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Img
+
+[ 2016-01-18T20:25:57+08:00 ] ::1 /thinkphp_3.2/js/excanvas.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Js
+
+[ 2016-01-18T20:25:57+08:00 ] ::1 /thinkphp_3.2/js/jquery.flot.resize.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Js
+
+[ 2016-01-18T20:25:57+08:00 ] ::1 /thinkphp_3.2/js/jquery.ui.custom.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Js
+
+[ 2016-01-18T20:25:57+08:00 ] ::1 /thinkphp_3.2/js/jquery.flot.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Js
+
+[ 2016-01-18T20:25:57+08:00 ] ::1 /thinkphp_3.2/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Js
+
+[ 2016-01-18T20:25:57+08:00 ] ::1 /thinkphp_3.2/js/jquery.peity.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Js
+
+[ 2016-01-18T20:25:57+08:00 ] ::1 /thinkphp_3.2/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Js
+
+[ 2016-01-18T20:25:57+08:00 ] ::1 /thinkphp_3.2/js/fullcalendar.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Js
+
+[ 2016-01-18T20:25:58+08:00 ] ::1 /thinkphp_3.2/js/unicorn.dashboard.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Js
+
+[ 2016-01-18T20:25:58+08:00 ] ::1 /thinkphp_3.2/js/unicorn.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Js
+
+[ 2016-01-18T20:26:03+08:00 ] ::1 /thinkphp_3.2/buttons.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Buttons
+
+[ 2016-01-18T20:27:03+08:00 ] ::1 /thinkphp_3.2/Public/basic_temp/images/backgrounds/calActiveBg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Public
+
+[ 2016-01-18T20:27:07+08:00 ] ::1 /thinkphp_3.2/grid.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Grid
+
+[ 2016-01-18T20:30:42+08:00 ] ::1 /thinkphp_3.2/form-common.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Form-common
+

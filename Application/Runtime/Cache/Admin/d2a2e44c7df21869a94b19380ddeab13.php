@@ -1,0 +1,20 @@
+<?php if (!defined('THINK_PATH')) exit();?> <html>
+ <head>
+	<title>注册信息</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	
+	<style>
+		.item {
+			margin:10px;
+		}
+	</style>
+	
+ </head>
+ <body>
+ 	<form action="<?php echo U('Admin/User/register');?>" method="post">
+ 		<div class="item"><span>账号(手机号)：</span><input type="tel" name="username" value="" /></div>
+		<div class="item"><span>密码：</span><input type="password" name="password" value="" /></div>
+		<div class="item"><input type="submit" value="注册" /></div>
+ 	</form>
+ </body>
+ </html>
