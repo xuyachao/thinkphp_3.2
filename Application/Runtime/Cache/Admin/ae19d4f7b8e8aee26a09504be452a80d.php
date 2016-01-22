@@ -46,5 +46,4 @@
 					<?php else: ?>
 						<li><a href="<?php echo U($opt['url']);?>"><i class="icon icon-th-list"></i> <span><?php echo ($opt["title"]); ?></span></a></li><?php endif; endforeach; endif; else: echo "" ;endif; ?>
 			</ul>
-		
 		</div>
