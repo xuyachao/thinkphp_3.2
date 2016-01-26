@@ -10,10 +10,7 @@ class IndexController extends BasicController {
 	}
 	
 	public function index(){
-		\Think\Log::write(_PUBLIC_, 'WARN');
-        //$this->show();
-        
-		$this->view();
+		//\Think\Log::write(_PUBLIC_, 'WARN');
     }
     
 }
